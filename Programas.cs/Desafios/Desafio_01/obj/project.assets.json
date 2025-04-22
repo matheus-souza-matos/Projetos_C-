@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Desafios\\Desafios\\Desafio_01.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Desafios\\Desafio_01\\Desafio_01.csproj",
       "projectName": "Desafio_01",
-      "projectPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Desafios\\Desafios\\Desafio_01.csproj",
+      "projectPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Desafios\\Desafio_01\\Desafio_01.csproj",
       "packagesPath": "C:\\Users\\Matheus Matos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Desafios\\Desafios\\obj\\",
+      "outputPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Desafios\\Desafio_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
