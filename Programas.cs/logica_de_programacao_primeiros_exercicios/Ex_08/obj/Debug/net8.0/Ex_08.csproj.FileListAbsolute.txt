@@ -1,0 +1,15 @@
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\bin\Debug\net8.0\Ex_08.exe
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\bin\Debug\net8.0\Ex_08.deps.json
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\bin\Debug\net8.0\Ex_08.runtimeconfig.json
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\bin\Debug\net8.0\Ex_08.dll
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\bin\Debug\net8.0\Ex_08.pdb
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.AssemblyInfoInputs.cache
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.AssemblyInfo.cs
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.csproj.CoreCompileInputs.cache
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.sourcelink.json
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.dll
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\refint\Ex_08.dll
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.pdb
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\Ex_08.genruntimeconfig.cache
+C:\Users\matheus.smatos11\source\repos\logica_programacao_seg_quar_noite\Ex_08\obj\Debug\net8.0\ref\Ex_08.dll

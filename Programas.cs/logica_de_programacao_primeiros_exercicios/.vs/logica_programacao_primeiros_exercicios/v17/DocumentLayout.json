@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77A81A9-A8BC-4D9E-AD4B-4176F2D42C54}|ex 01\\ex 01.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77A81A9-A8BC-4D9E-AD4B-4176F2D42C54}|ex 01\\ex 01.csproj|solutionrelative:ex 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77A81A9-A8BC-4D9E-AD4B-4176F2D42C54}|ex 01\\ex 01.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex 01\\ex 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A77A81A9-A8BC-4D9E-AD4B-4176F2D42C54}|ex 01\\ex 01.csproj|solutionrelative:ex 01\\ex 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8030A9-2DE3-4019-AD4D-D3277D25E9D2}|Ex_30\\Ex_30.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8030A9-2DE3-4019-AD4D-D3277D25E9D2}|Ex_30\\Ex_30.csproj|solutionrelative:ex_30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF468A0-513D-4529-8FEE-112CF7BA041A}|Ex_29\\Ex_29.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF468A0-513D-4529-8FEE-112CF7BA041A}|Ex_29\\Ex_29.csproj|solutionrelative:ex_29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19654ED1-07E9-46F9-AD23-24AC74AC1E09}|Ex_28\\Ex_28.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19654ED1-07E9-46F9-AD23-24AC74AC1E09}|Ex_28\\Ex_28.csproj|solutionrelative:ex_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05443AFF-D349-46CC-A689-72293D8E9958}|Ex_27\\Ex_27.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05443AFF-D349-46CC-A689-72293D8E9958}|Ex_27\\Ex_27.csproj|solutionrelative:ex_27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE8724-0102-42FB-9829-617C498CE77A}|Ex_26\\Ex_26.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE8724-0102-42FB-9829-617C498CE77A}|Ex_26\\Ex_26.csproj|solutionrelative:ex_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971880DE-3B26-4E1C-BA2F-A6D20A7E2005}|Ex_25\\Ex_25.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971880DE-3B26-4E1C-BA2F-A6D20A7E2005}|Ex_25\\Ex_25.csproj|solutionrelative:ex_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE746D6B-1BCF-4F0A-91EA-0914A1580FCD}|Ex_24\\Ex_24.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE746D6B-1BCF-4F0A-91EA-0914A1580FCD}|Ex_24\\Ex_24.csproj|solutionrelative:ex_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DF17E5-3D52-45B7-AD14-DA6440B5D478}|Ex_23\\Ex_23.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DF17E5-3D52-45B7-AD14-DA6440B5D478}|Ex_23\\Ex_23.csproj|solutionrelative:ex_23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8E9DBD-BF82-420C-98D2-9EB61F8B1596}|Ex_21\\Ex_21.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8E9DBD-BF82-420C-98D2-9EB61F8B1596}|Ex_21\\Ex_21.csproj|solutionrelative:ex_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C246EF4-0983-4AFF-880D-640D771E13E5}|Ex_20\\Ex_20.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C246EF4-0983-4AFF-880D-640D771E13E5}|Ex_20\\Ex_20.csproj|solutionrelative:ex_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6FD81F-3FC1-4413-88EC-0E07B312890B}|Ex_19\\Ex_19.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6FD81F-3FC1-4413-88EC-0E07B312890B}|Ex_19\\Ex_19.csproj|solutionrelative:ex_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8675D054-9EC5-4C80-9E55-113AB325B2BE}|Ex_16\\Ex_16.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8675D054-9EC5-4C80-9E55-113AB325B2BE}|Ex_16\\Ex_16.csproj|solutionrelative:ex_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B485D18A-003F-45AB-9A26-F199B1E03890}|Ex_17\\Ex_17.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B485D18A-003F-45AB-9A26-F199B1E03890}|Ex_17\\Ex_17.csproj|solutionrelative:ex_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFE0253-7183-4FD3-9052-7ED1EE6DB90C}|Ex_18\\Ex_18.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFE0253-7183-4FD3-9052-7ED1EE6DB90C}|Ex_18\\Ex_18.csproj|solutionrelative:ex_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FA706F-490A-40A2-8E95-8E2F4B5482AC}|Ex_15\\Ex_15.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FA706F-490A-40A2-8E95-8E2F4B5482AC}|Ex_15\\Ex_15.csproj|solutionrelative:ex_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11466390-7613-427A-80A6-B6AC86064599}|Ex_14\\Ex_14.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11466390-7613-427A-80A6-B6AC86064599}|Ex_14\\Ex_14.csproj|solutionrelative:ex_14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A619596A-EF7D-480F-B17F-1E5F82175592}|Ex_13\\Ex_13.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A619596A-EF7D-480F-B17F-1E5F82175592}|Ex_13\\Ex_13.csproj|solutionrelative:ex_13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6C006A-CBE4-4456-9990-05C35AF78082}|Ex_12\\Ex_12.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6C006A-CBE4-4456-9990-05C35AF78082}|Ex_12\\Ex_12.csproj|solutionrelative:ex_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F911F4CD-3644-415B-A1FE-8936F153E436}|Ex_11\\Ex_11.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F911F4CD-3644-415B-A1FE-8936F153E436}|Ex_11\\Ex_11.csproj|solutionrelative:ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B2F339-2E39-4629-BF25-01EB7FA9AD83}|Ex_10\\Ex_10.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B2F339-2E39-4629-BF25-01EB7FA9AD83}|Ex_10\\Ex_10.csproj|solutionrelative:ex_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2026D7-9FE4-4154-A06F-B9FE14B32F4F}|Ex_09\\Ex_09.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2026D7-9FE4-4154-A06F-B9FE14B32F4F}|Ex_09\\Ex_09.csproj|solutionrelative:ex_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD225CE8-6C3A-43EB-8789-ACCBF57D3A3A}|Ex_08\\Ex_08.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD225CE8-6C3A-43EB-8789-ACCBF57D3A3A}|Ex_08\\Ex_08.csproj|solutionrelative:ex_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E09BE7-98AA-4721-8C61-61C6B871CD6C}|Ex_07\\Ex_07.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E09BE7-98AA-4721-8C61-61C6B871CD6C}|Ex_07\\Ex_07.csproj|solutionrelative:ex_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3C48C4-4CBB-4BD2-8845-B017B7EFFC0C}|Ex_06\\Ex_06.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3C48C4-4CBB-4BD2-8845-B017B7EFFC0C}|Ex_06\\Ex_06.csproj|solutionrelative:ex_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277DA05-B2F9-48C4-B71E-3CA5CF76EC3D}|Ex_05\\Ex_05.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277DA05-B2F9-48C4-B71E-3CA5CF76EC3D}|Ex_05\\Ex_05.csproj|solutionrelative:ex_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77B190F-41CE-414D-B2E0-37E5B7E45E8E}|Ex_04\\Ex_04.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77B190F-41CE-414D-B2E0-37E5B7E45E8E}|Ex_04\\Ex_04.csproj|solutionrelative:ex_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCA5A11-5C6D-41DA-8CF3-0DA48F95EF50}|Ex.02\\Ex.02.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCA5A11-5C6D-41DA-8CF3-0DA48F95EF50}|Ex.02\\Ex.02.csproj|solutionrelative:ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D2E05F-CCD0-434B-A518-CADD2285A66C}|Ex.03\\Ex.03.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D2E05F-CCD0-434B-A518-CADD2285A66C}|Ex.03\\Ex.03.csproj|solutionrelative:ex.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCA5A11-5C6D-41DA-8CF3-0DA48F95EF50}|Ex.02\\Ex.02.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex.02\\ex.02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBCA5A11-5C6D-41DA-8CF3-0DA48F95EF50}|Ex.02\\Ex.02.csproj|solutionrelative:ex.02\\ex.02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11466390-7613-427A-80A6-B6AC86064599}|Ex_14\\Ex_14.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c#\\atividades_curso_senac_c#\\logica_de_programacao_seg_quar_noite\\ex_14\\ex_14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11466390-7613-427A-80A6-B6AC86064599}|Ex_14\\Ex_14.csproj|solutionrelative:ex_14\\ex_14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_27\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_27\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_27\\Program.cs",
+              "RelativeToolTip": "Ex_27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:40:32.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_26\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_26\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_26\\Program.cs",
+              "RelativeToolTip": "Ex_26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:40:19.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_25\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_25\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_25\\Program.cs",
+              "RelativeToolTip": "Ex_25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:40:11.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_24\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_24\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_24\\Program.cs",
+              "RelativeToolTip": "Ex_24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:40:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_23\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_23\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_23\\Program.cs",
+              "RelativeToolTip": "Ex_23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:39:53.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_21\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_21\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_21\\Program.cs",
+              "RelativeToolTip": "Ex_21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:39:37.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_30\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_30\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_30\\Program.cs",
+              "RelativeToolTip": "Ex_30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:43:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex 01.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\ex 01\\ex 01.csproj",
+              "RelativeDocumentMoniker": "ex 01\\ex 01.csproj",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\ex 01\\ex 01.csproj",
+              "RelativeToolTip": "ex 01\\ex 01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T18:19:46.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\ex 01\\Program.cs",
+              "RelativeDocumentMoniker": "ex 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\ex 01\\Program.cs",
+              "RelativeToolTip": "ex 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:19:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_28\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_28\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_28\\Program.cs",
+              "RelativeToolTip": "Ex_28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:40:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_29\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_29\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_29\\Program.cs",
+              "RelativeToolTip": "Ex_29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:40:51.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_20\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_20\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_20\\Program.cs",
+              "RelativeToolTip": "Ex_20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:38:44.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_19\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_19\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_19\\Program.cs",
+              "RelativeToolTip": "Ex_19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:38:34.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_17\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_17\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_17\\Program.cs",
+              "RelativeToolTip": "Ex_17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:23:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_16\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_16\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_16\\Program.cs",
+              "RelativeToolTip": "Ex_16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:22:31.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_15\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_15\\Program.cs",
+              "RelativeToolTip": "Ex_15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:22:24.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_13\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_13\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_13\\Program.cs",
+              "RelativeToolTip": "Ex_13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:22:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_11\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_11\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_11\\Program.cs",
+              "RelativeToolTip": "Ex_11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:21:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_10\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_10\\Program.cs",
+              "RelativeToolTip": "Ex_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:49.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_18\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_18\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_18\\Program.cs",
+              "RelativeToolTip": "Ex_18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:27:25.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_09\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_09\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_09\\Program.cs",
+              "RelativeToolTip": "Ex_09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:55.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_12\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_12\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_12\\Program.cs",
+              "RelativeToolTip": "Ex_12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:44.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_08\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_08\\Program.cs",
+              "RelativeToolTip": "Ex_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:21:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_07\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_07\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_07\\Program.cs",
+              "RelativeToolTip": "Ex_07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:29.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_06\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_06\\Program.cs",
+              "RelativeToolTip": "Ex_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:24.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_14\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_14\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_14\\Program.cs",
+              "RelativeToolTip": "Ex_14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:43:58.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_05\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_05\\Program.cs",
+              "RelativeToolTip": "Ex_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_04\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_04\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_04\\Program.cs",
+              "RelativeToolTip": "Ex_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:02.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Ex_14.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_14\\Ex_14.csproj",
+              "RelativeDocumentMoniker": "Ex_14\\Ex_14.csproj",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex_14\\Ex_14.csproj",
+              "RelativeToolTip": "Ex_14\\Ex_14.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T17:43:55.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex.03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex.03\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex.03\\Program.cs",
+              "RelativeToolTip": "Ex.03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:42:06.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex.02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex.02\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex.02\\Program.cs",
+              "RelativeToolTip": "Ex.02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:40:33.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ex.02.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex.02\\Ex.02.csproj",
+              "RelativeDocumentMoniker": "Ex.02\\Ex.02.csproj",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Atividades_curso_Senac_C#\\logica_de_programacao_seg_quar_noite\\Ex.02\\Ex.02.csproj",
+              "RelativeToolTip": "Ex.02\\Ex.02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T17:40:29.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

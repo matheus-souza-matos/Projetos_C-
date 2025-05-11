@@ -1,0 +1,15 @@
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\bin\Debug\net8.0\Ex01.exe
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\bin\Debug\net8.0\Ex01.deps.json
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\bin\Debug\net8.0\Ex01.runtimeconfig.json
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\bin\Debug\net8.0\Ex01.dll
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\bin\Debug\net8.0\Ex01.pdb
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.AssemblyInfoInputs.cache
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.AssemblyInfo.cs
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.sourcelink.json
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.dll
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\refint\Ex01.dll
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.pdb
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\Ex01.genruntimeconfig.cache
+C:\Matheus\Lista_02_While_doWhile_For\Ex01\obj\Debug\net8.0\ref\Ex01.dll

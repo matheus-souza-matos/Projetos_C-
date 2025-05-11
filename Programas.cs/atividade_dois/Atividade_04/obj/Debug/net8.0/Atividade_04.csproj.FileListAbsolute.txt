@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\bin\Debug\net8.0\Atividade_04.exe
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\bin\Debug\net8.0\Atividade_04.deps.json
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\bin\Debug\net8.0\Atividade_04.runtimeconfig.json
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\bin\Debug\net8.0\Atividade_04.dll
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\bin\Debug\net8.0\Atividade_04.pdb
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.AssemblyInfo.cs
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.sourcelink.json
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.dll
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\refint\Atividade_04.dll
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.pdb
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\Atividade_04.genruntimeconfig.cache
+C:\Users\usuario\Documents\Matheus\repositório\atividade_dois\Atividade_04\obj\Debug\net8.0\ref\Atividade_04.dll

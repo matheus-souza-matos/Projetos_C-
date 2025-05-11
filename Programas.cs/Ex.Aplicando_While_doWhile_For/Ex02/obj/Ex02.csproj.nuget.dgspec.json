@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj": {}
+    "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj": {
+    "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj",
         "projectName": "Ex02",
-        "projectPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj",
+        "projectPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\Ex02.csproj",
         "packagesPath": "C:\\Users\\Matheus Matos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\obj\\",
+        "outputPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

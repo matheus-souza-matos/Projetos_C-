@@ -1,0 +1,14 @@
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.AssemblyInfoInputs.cache
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.AssemblyInfo.cs
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.csproj.CoreCompileInputs.cache
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\bin\Debug\net8.0\Desafio_03.exe
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\bin\Debug\net8.0\Desafio_03.deps.json
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\bin\Debug\net8.0\Desafio_03.runtimeconfig.json
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\bin\Debug\net8.0\Desafio_03.dll
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\bin\Debug\net8.0\Desafio_03.pdb
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.dll
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\refint\Desafio_03.dll
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.pdb
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\Desafio_03.genruntimeconfig.cache
+C:\Users\matheus.smatos11\source\repos\Desafio_01\Desafio_03\obj\Debug\net8.0\ref\Desafio_03.dll

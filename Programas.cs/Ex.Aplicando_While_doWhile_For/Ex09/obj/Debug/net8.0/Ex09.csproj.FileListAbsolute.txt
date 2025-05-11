@@ -1,0 +1,15 @@
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\bin\Debug\net8.0\Ex09.exe
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\bin\Debug\net8.0\Ex09.deps.json
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\bin\Debug\net8.0\Ex09.runtimeconfig.json
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\bin\Debug\net8.0\Ex09.dll
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\bin\Debug\net8.0\Ex09.pdb
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfoInputs.cache
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfo.cs
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.csproj.CoreCompileInputs.cache
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.sourcelink.json
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.dll
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\refint\Ex09.dll
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.pdb
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\Ex09.genruntimeconfig.cache
+C:\Matheus\Lista_02_While_doWhile_For\Ex09\obj\Debug\net8.0\ref\Ex09.dll

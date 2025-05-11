@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9AF4A5-AABD-48C2-8692-8A09F4748224}|Desafio_01\\Desafio_01.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c\\programas.cs\\desafios_01\\desafio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9AF4A5-AABD-48C2-8692-8A09F4748224}|Desafio_01\\Desafio_01.csproj|solutionrelative:desafio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D2AB7A-4EC2-4753-ADF0-F13BFE7A98E8}|Desafio_5\\Desafio_05.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c\\programas.cs\\desafios_01\\desafio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D2AB7A-4EC2-4753-ADF0-F13BFE7A98E8}|Desafio_5\\Desafio_05.csproj|solutionrelative:desafio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4585B91-B691-478E-BD44-D11A7B07828A}|Desafio 04\\Desafio_04.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c\\programas.cs\\desafios_01\\desafio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4585B91-B691-478E-BD44-D11A7B07828A}|Desafio 04\\Desafio_04.csproj|solutionrelative:desafio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0B2C9-8139-4FDA-8148-FBE1CED45B48}|Desafio_03\\Desafio_03.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c\\programas.cs\\desafios_01\\desafio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0B2C9-8139-4FDA-8148-FBE1CED45B48}|Desafio_03\\Desafio_03.csproj|solutionrelative:desafio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C8601F-4FD3-41CF-96DC-E05B469138F9}|Desafio_02\\Desafio_02.csproj|c:\\users\\matheus matos\\documents\\matheus\\preojetos_c\\programas.cs\\desafios_01\\desafio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C8601F-4FD3-41CF-96DC-E05B469138F9}|Desafio_02\\Desafio_02.csproj|solutionrelative:desafio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_5\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_5\\Program.cs",
+              "RelativeToolTip": "Desafio_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:56:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio 04\\Program.cs",
+              "RelativeToolTip": "Desafio 04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:37:20.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_03\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_03\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_03\\Program.cs",
+              "RelativeToolTip": "Desafio_03\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:01:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_02\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_02\\Program.cs",
+              "RelativeToolTip": "Desafio_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:40:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_01\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\desafios_01\\Desafio_01\\Program.cs",
+              "RelativeToolTip": "Desafio_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:29:11.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

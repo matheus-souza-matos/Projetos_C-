@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex04\\Ex04.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex04\\Ex04.csproj",
       "projectName": "Ex04",
-      "projectPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex04\\Ex04.csproj",
+      "projectPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex04\\Ex04.csproj",
       "packagesPath": "C:\\Users\\Matheus Matos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C#\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex04\\obj\\",
+      "outputPath": "C:\\Users\\Matheus Matos\\Documents\\Matheus\\Preojetos_C\\Programas.cs\\Ex.Aplicando_While_doWhile_For\\Ex04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
